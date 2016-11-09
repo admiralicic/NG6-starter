@@ -1,5 +1,8 @@
+import jquery from 'jquery';
 import angular from 'angular';
 import uiRouter from 'angular-ui-router';
+// import bootstrap from 'bootstrap/dist/js/bootstrap';
+import 'bootstrap-loader';
 import Common from './common/common';
 import Components from './components/components';
 import AppComponent from './app.component';
